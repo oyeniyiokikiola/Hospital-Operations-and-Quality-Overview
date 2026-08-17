@@ -9,10 +9,8 @@
 ## Project Type
 
 - [x] Exploratory Analysis
-- [ ] SQL Analysis
 - [x] Dashboard / Visualization
 - [x] Data Cleaning
-- [ ] Predictive Modelling
 - [x] End-to-End Project
 
 ---
@@ -359,7 +357,7 @@ it confirms the dashboard is built to catch it when it matters.
 
 ## 22. AI Usage Disclosure
 
-- **AI-assisted:** README structuring and first-draft wording, verification of KPI figures against source data
+- **AI-assisted:** Verification of KPI figures against source data
 - **Not AI-assisted:** Dataset creation, dashboard design and build, final interpretation and recommendations
 
 ---
