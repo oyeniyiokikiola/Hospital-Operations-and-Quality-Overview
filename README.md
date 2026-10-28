@@ -39,8 +39,7 @@
 20. [Assumptions & Limitations](#20-assumptions--limitations)
 21. [Conclusion](#21-conclusion)
 22. [AI Usage Disclosure](#22-ai-usage-disclosure)
-23. [How to Reproduce This Project](#23-how-to-reproduce-this-project)
-24. [Author](#24-author)
+23. [Author](#23-author)
 
 ---
 
@@ -360,14 +359,6 @@ it confirms the dashboard is built to catch it when it matters.
 - **AI-assisted:** Verification of KPI figures against source data
 - **Not AI-assisted:** Dataset creation, dashboard design and build, final interpretation and recommendations
 
----
-
-## 23. How to Reproduce This Project
-
-1. Open `data/Hospital_Overview_Dataset__version_1___Okikiola_Oyeniyi.xlsx` in Excel.
-2. Review the `source Data` sheet for the raw 15-record dataset and the `ANALYSIS` sheet for the underlying
-   PivotTables.
-3. Open the `Hospital Dashboard` / `DASHBOARD` sheet to view or rebuild the visual layout shown in this README.
 
 ---
 
